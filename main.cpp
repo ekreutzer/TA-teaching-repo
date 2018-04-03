@@ -9,11 +9,15 @@ double divide(const int & a, const int & b){
 int adds(int a, int b) {
     return a - b;
 }
+bool isTrue(int c){
+    return false;
+}
 
 int main() {
     cout << "merge conflicts?" << endl;
     cout << "Hello, World!" << endl;
     cout << "My github repo" << endl;
+    cout << "Is 5 true? " << boolalpha << isTrue(5) << endl;
 
 
     cout << "3 + 5 = " << adds(3, 5) << endl;
