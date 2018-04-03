@@ -18,7 +18,7 @@ void doSomething(){
 
 int main() {
     cout << "merge conflicts?" << endl;
-    cout << "Hello, World!" << endl;
+    cout << "Hello, Worlllllllllld! i am alive" << endl;
     cout << "My github repo" << endl;
     cout << "Is 5 true? " << boolalpha << isTrue(5) << endl;
 
