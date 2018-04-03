@@ -12,6 +12,9 @@ int adds(int a, int b) {
 bool isTrue(int c){
     return false;
 }
+void doSomething(){
+    cout << "Something" << endl;
+}
 
 int main() {
     cout << "merge conflicts?" << endl;
